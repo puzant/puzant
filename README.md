@@ -39,9 +39,9 @@ I'm a passionate full-stack developer with a love for crafting robust and user-c
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/puzant-b-006426108/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puzant-b-006426108) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@puzant24) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/puzantBakjejian) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/puzantBakjejian) 
 [![Instagram Badge](https://img.shields.io/badge/-@puzantbakjejian-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/puzantbakjejian/)](https://instagram.com/puzantbakjejian)
 
 ### 📊 GitHub Stats:
